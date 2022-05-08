@@ -1,6 +1,7 @@
 pragma solidity ^0.5.0;
 
 contract DappToken {
+    // トークン名を格納
     string  public name = "DApp Token";
     string  public symbol = "DAPP";
     uint256 public totalSupply = 1000000000000000000000000; // 1 million tokens
