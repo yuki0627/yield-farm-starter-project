@@ -1,1 +1,2 @@
-# yield-farm
+### 🌽 yield-farm project starter kit
+
