@@ -1,4 +1,4 @@
-# 🌽 yield-farm project starter kit
+# 🌽 Grow your own yield farm on Ganache.
 
 ![](https://i.imgur.com/wQzjeTN.png)
 
