@@ -1,6 +1,6 @@
-### 🌽 yield-farm project starter kit
+# 🌽 yield-farm project starter kit
 
-[](https://i.imgur.com/wQzjeTN.png)
+![](https://i.imgur.com/wQzjeTN.png)
 
 このコースを始めるには、下記のステップを実行してください。
 
